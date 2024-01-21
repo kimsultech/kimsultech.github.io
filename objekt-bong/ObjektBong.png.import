@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ObjektBong.png-cafe59e8408ad2aac20c01834b2ac907.stex"
+path="res://.import/ObjektBong.png-ce0993daa3463af3e9ea4a5c0e39c5a4.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://web/ObjektBong.png"
-dest_files=[ "res://.import/ObjektBong.png-cafe59e8408ad2aac20c01834b2ac907.stex" ]
+source_file="res://web/kimsultech.github.io/objekt-bong/ObjektBong.png"
+dest_files=[ "res://.import/ObjektBong.png-ce0993daa3463af3e9ea4a5c0e39c5a4.stex" ]
 
 [params]
 
